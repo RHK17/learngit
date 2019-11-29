@@ -7,3 +7,5 @@ for i in range(5):
     print("I love python")
 def c_po():
     pass
+def c_abc():
+    pass
