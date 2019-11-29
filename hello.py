@@ -5,3 +5,5 @@ hello("joe")
 print("author is joe")
 for i in range(5):
     print("I love python")
+def c_po():
+    pass
