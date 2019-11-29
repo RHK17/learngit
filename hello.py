@@ -3,3 +3,5 @@ def hello(name):
 
 hello("joe")
 print("author is joe")
+for i in range(5):
+    print("I love python")
